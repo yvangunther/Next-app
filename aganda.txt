@@ -1,0 +1,8 @@
+j'ai recu beaucoup d'aide de Vincent.R et Ranvir.C
+
+fait et organiser dans le dernier mois du projet
+page principale
+page de creation (avec filtre dymanique + connection db )
+header et footer
+page de recherche (non fonctionnel)
+page pour editer et suprimer (non fonctionnel)
